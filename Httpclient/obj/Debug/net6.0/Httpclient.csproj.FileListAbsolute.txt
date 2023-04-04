@@ -1,0 +1,12 @@
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\bin\Debug\net6.0\Httpclient.deps.json
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\bin\Debug\net6.0\Httpclient.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\bin\Debug\net6.0\Httpclient.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.csproj.AssemblyReference.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.AssemblyInfoInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.AssemblyInfo.cs
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.csproj.CoreCompileInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\refint\Httpclient.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\Httpclient.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Httpclient\obj\Debug\net6.0\ref\Httpclient.dll
