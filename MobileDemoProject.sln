@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileDemoProject", "MobileDemoProject.csproj", "{DD3BCD46-569F-4228-890A-BF6B76A0A010}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Domain1", "..\Mobile.Domain1\Mobile.Domain1.csproj", "{DEAC29CA-5733-4422-B6D6-25F9CEA0A075}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile.Service1", "..\Mobile.Service1\Mobile.Service1.csproj", "{99B1051E-C72C-4B95-B5C7-857F804AE83E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileDealerADO", "..\MobileDealerADO\MobileDealerADO.csproj", "{783E03AA-E5B6-47A3-8E66-1B4569336B6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{860EE51A-A0AF-4232-91C2-4F9CDA93F60A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientTestProject", "..\HttpClientTestProject\HttpClientTestProject.csproj", "{80491D87-0D31-44F7-B6DF-6A2A8581C975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Httpclient", "..\Httpclient\Httpclient.csproj", "{F3A26F7E-982B-4170-AAC0-AB3AF0ADEC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3BCD46-569F-4228-890A-BF6B76A0A010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3BCD46-569F-4228-890A-BF6B76A0A010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3BCD46-569F-4228-890A-BF6B76A0A010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3BCD46-569F-4228-890A-BF6B76A0A010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAC29CA-5733-4422-B6D6-25F9CEA0A075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAC29CA-5733-4422-B6D6-25F9CEA0A075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAC29CA-5733-4422-B6D6-25F9CEA0A075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAC29CA-5733-4422-B6D6-25F9CEA0A075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B1051E-C72C-4B95-B5C7-857F804AE83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B1051E-C72C-4B95-B5C7-857F804AE83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B1051E-C72C-4B95-B5C7-857F804AE83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B1051E-C72C-4B95-B5C7-857F804AE83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783E03AA-E5B6-47A3-8E66-1B4569336B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783E03AA-E5B6-47A3-8E66-1B4569336B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783E03AA-E5B6-47A3-8E66-1B4569336B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783E03AA-E5B6-47A3-8E66-1B4569336B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860EE51A-A0AF-4232-91C2-4F9CDA93F60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860EE51A-A0AF-4232-91C2-4F9CDA93F60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860EE51A-A0AF-4232-91C2-4F9CDA93F60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860EE51A-A0AF-4232-91C2-4F9CDA93F60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80491D87-0D31-44F7-B6DF-6A2A8581C975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80491D87-0D31-44F7-B6DF-6A2A8581C975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80491D87-0D31-44F7-B6DF-6A2A8581C975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80491D87-0D31-44F7-B6DF-6A2A8581C975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A26F7E-982B-4170-AAC0-AB3AF0ADEC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A26F7E-982B-4170-AAC0-AB3AF0ADEC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A26F7E-982B-4170-AAC0-AB3AF0ADEC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A26F7E-982B-4170-AAC0-AB3AF0ADEC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFF29E1-454D-4D11-A6E0-CD19A18CE4CF}
+	EndGlobalSection
+EndGlobal

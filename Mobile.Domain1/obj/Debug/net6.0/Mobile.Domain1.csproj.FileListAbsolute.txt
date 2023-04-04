@@ -1,0 +1,14 @@
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\bin\Debug\net6.0\Mobile.Domain1.deps.json
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\bin\Debug\net6.0\Mobile.Domain1.runtimeconfig.json
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\bin\Debug\net6.0\Mobile.Domain1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\bin\Debug\net6.0\Mobile.Domain1.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.csproj.AssemblyReference.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.AssemblyInfoInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.AssemblyInfo.cs
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.csproj.CoreCompileInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\refint\Mobile.Domain1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\Mobile.Domain1.genruntimeconfig.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Domain1\obj\Debug\net6.0\ref\Mobile.Domain1.dll

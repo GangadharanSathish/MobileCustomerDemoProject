@@ -1,0 +1,17 @@
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Service1.deps.json
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Service1.runtimeconfig.json
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Service1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Service1.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Domain1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\bin\Debug\net6.0\Mobile.Domain1.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.csproj.AssemblyReference.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.AssemblyInfoInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.AssemblyInfo.cs
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.csproj.CoreCompileInputs.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.csproj.CopyComplete
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\refint\Mobile.Service1.dll
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.pdb
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\Mobile.Service1.genruntimeconfig.cache
+C:\Users\Konikha Jeyaseelan\Downloads\sathish\csharp project\Mobile.Service1\obj\Debug\net6.0\ref\Mobile.Service1.dll
